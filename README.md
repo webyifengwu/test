@@ -1,3 +1,7 @@
+
+这里说明运行环境为 node 版本16.4.0 npm 版本为 9.4.1
+
+
 # vue3_music
 
 ## Project setup
